@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW5</string>
+    <string name="calories_taken">მიღებული კალორია</string>
+    <string name="insert">დამატება</string>
+    <string name="distance_swam">გაცურული მანძილი</string>
+    <string name="distance_ran">გარბენილი მანძილი</string>
+</resources>
